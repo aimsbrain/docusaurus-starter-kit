@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://facebook.github.io/test-site/blog</id>
+    <title>OSS Mentorship - An Adventure Blog</title>
+    <updated>2018-02-28T06:00:00Z</updated>
+    <generator>Feed for Node.js</generator>
+    <link rel="alternate" href="https://facebook.github.io/test-site/blog"/>
+    <subtitle>The best place to stay up-to-date with the latest OSS Mentorship - An Adventure news and events.</subtitle>
+    <logo>https://facebook.github.io/test-site/img/docusaurus.svg</logo>
+    <rights>Copyright © 2018 Your Name or Your Company Name</rights>
+    <entry>
+        <title type="html"><![CDATA[Getting Started - Assumptions]]></title>
+        <id>https://facebook.github.io/test-site/blog/2018/02/28/getting-started-assumptions.html</id>
+        <link href="https://facebook.github.io/test-site/blog/2018/02/28/getting-started-assumptions.html">
+        </link>
+        <updated>2018-02-28T06:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Info and screenshots of what I found confusing getting up and running.</p>
+]]></summary>
+        <author>
+            <name>Aimee Babb</name>
+            <uri>https://www.facebook.com/aimee.babb.9</uri>
+        </author>
+    </entry>
+</feed>
